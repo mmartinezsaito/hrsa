@@ -1,4 +1,4 @@
-# hrsa
+# Hierachical RSA
 R and Stan code implementing hierarchical Bayesian model of pragmatic reasoning types.
 This model is based on the original Rational Speech Act model by Frank and Goodman (2012) and its generalization to a mixed population of pragmatic reasoning types by Franke and Degen (2013).
 
